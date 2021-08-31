@@ -1,0 +1,2 @@
+This file is my first JAVA practice file. I followed the IntelliJ (https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html) to build the first "HelloWorld" page!
+try to test the jar
